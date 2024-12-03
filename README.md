@@ -26,6 +26,8 @@ The application executes the SQL query against the uploaded CSV data and present
 The application provides informative error messages if the query is invalid or if there are issues with the data.
 
 Data Processing:
+
+
 Data Processing: The Foundation of Intelligent Query Generation
 Data processing is a critical step in our smart query generator. It involves the following key stages:
 1. File Uploading and Validation:
@@ -46,7 +48,10 @@ The processed data is stored as a table in a temporary database.
 This stored data serves as the foundation for query execution and result generation.
 
 By effectively processing and understanding the data, our smart query generator can provide accurate and relevant query suggestions, enhancing the overall user experience.
+
 AI-Powered Query Generation:
+
+
 AI-Powered Query Generation: A Deep Dive
 Our smart query generator leverages the power of Vertex AI to transform natural language queries into precise SQL statements. This section delves into the core technologies and techniques that underpin this process:
 1. Natural Language Processing (NLP):
@@ -73,7 +78,11 @@ The optimized SQL query is executed against the data source.
 The results are formatted and presented to the user in a clear and concise manner.
 
 By combining these techniques, our AI-powered query generator can accurately interpret user intent, generate efficient SQL queries, and provide valuable insights from complex datasets.
+
+
 Usage:
+
+
 The above TrainingData.csv is a bitstream dataset fileTo use our smart query generator, follow these simple steps:
 1.Upload CSV Data File:
 Click the "Upload CSV file" button.
@@ -92,6 +101,8 @@ The application will generate the SQL query and execute it against your data.
 The results will be displayed in a clear and concise format, such as a table or a chart.
 
 Conclusion:
+
+
 In conclusion, our smart query generator represents a significant step forward in democratizing data analysis. By leveraging the power of AI and machine learning, we've developed a tool that empowers users of all technical backgrounds to extract meaningful insights from their data.
 Our application simplifies the complex process of writing SQL queries, allowing users to focus on the analysis itself rather than the technical intricacies. By automating query generation and execution, we streamline the data exploration process and accelerate time to insights.
 As we continue to refine our technology, we envision a future where AI-powered tools like ours become essential components of data-driven decision-making. We are excited to explore new possibilities and push the boundaries of what's possible in the field of data analytics.
